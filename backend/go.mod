@@ -50,7 +50,7 @@ require (
 	k8s.io/client-go v10.0.0+incompatible
 )
 
-require github.com/diggerhq/digger/libs v0.0.0-00010101000000-000000000000
+require github.com/diggerhq/digger/libs v0.0.0-20240604170430-9d61cdf01cc5
 
 require (
 	ariga.io/atlas-go-sdk v0.7.2 // indirect
